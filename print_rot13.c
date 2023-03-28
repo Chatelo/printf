@@ -31,4 +31,3 @@ int print_rot13(char *format, va_list args)
 	}
 	return (count);
 }
-
